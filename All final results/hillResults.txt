@@ -1,0 +1,3881 @@
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_1.txt firstHillSol=600_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.017000 secs
+Number of restarts: 10
+Number of steps: 29
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_2.txt firstHillSol=600_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_3.txt firstHillSol=600_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 5
+Number of steps: 13
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_4.txt firstHillSol=600_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.026000 secs
+Number of restarts: 18
+Number of steps: 44
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_5.txt firstHillSol=600_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_6.txt firstHillSol=600_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.003000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_7.txt firstHillSol=600_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 3
+Number of steps: 9
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_8.txt firstHillSol=600_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_9.txt firstHillSol=600_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.014000 secs
+Number of restarts: 11
+Number of steps: 25
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_10.txt firstHillSol=600_10.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_1.txt secondHillSol=600_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.017000 secs
+Number of restarts: 10
+Number of steps: 29
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_2.txt secondHillSol=600_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_3.txt secondHillSol=600_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 5
+Number of steps: 13
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_4.txt secondHillSol=600_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.026000 secs
+Number of restarts: 18
+Number of steps: 44
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_5.txt secondHillSol=600_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_6.txt secondHillSol=600_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_7.txt secondHillSol=600_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 3
+Number of steps: 9
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_8.txt secondHillSol=600_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_9.txt secondHillSol=600_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_10.txt secondHillSol=600_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_1.txt thirdHillSol=600_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_2.txt thirdHillSol=600_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_3.txt thirdHillSol=600_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_4.txt thirdHillSol=600_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.026000 secs
+Number of restarts: 17
+Number of steps: 45
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_5.txt thirdHillSol=600_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.003000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_6.txt thirdHillSol=600_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_7.txt thirdHillSol=600_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_8.txt thirdHillSol=600_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_9.txt thirdHillSol=600_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_10.txt thirdHillSol=600_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_1.txt fourthHillSol=600_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_2.txt fourthHillSol=600_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_3.txt fourthHillSol=600_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_4.txt fourthHillSol=600_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.027000 secs
+Number of restarts: 17
+Number of steps: 45
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_5.txt fourthHillSol=600_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_6.txt fourthHillSol=600_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_7.txt fourthHillSol=600_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.003000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_8.txt fourthHillSol=600_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_9.txt fourthHillSol=600_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_10.txt fourthHillSol=600_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_1.txt fifthHillSol=600_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_2.txt fifthHillSol=600_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_3.txt fifthHillSol=600_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_4.txt fifthHillSol=600_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.026000 secs
+Number of restarts: 17
+Number of steps: 45
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_5.txt fifthHillSol=600_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_6.txt fifthHillSol=600_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 4
+Number of steps: 12
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_7.txt fifthHillSol=600_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_8.txt fifthHillSol=600_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_9.txt fifthHillSol=600_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=600_10.txt fifthHillSol=600_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_1.txt firstHillSol=700_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_2.txt firstHillSol=700_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.013000 secs
+Number of restarts: 8
+Number of steps: 19
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_3.txt firstHillSol=700_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_4.txt firstHillSol=700_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.028000 secs
+Number of restarts: 19
+Number of steps: 41
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_5.txt firstHillSol=700_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_6.txt firstHillSol=700_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_7.txt firstHillSol=700_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_8.txt firstHillSol=700_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.013000 secs
+Number of restarts: 5
+Number of steps: 14
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_9.txt firstHillSol=700_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.012000 secs
+Number of restarts: 6
+Number of steps: 18
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_10.txt firstHillSol=700_10.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.035000 secs
+Number of restarts: 23
+Number of steps: 52
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_1.txt firstHillSol=800_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.015000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_2.txt firstHillSol=800_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.080000 secs
+Number of restarts: 39
+Number of steps: 101
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_3.txt firstHillSol=800_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 29325
+Number of steps: 73883
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_4.txt firstHillSol=800_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_5.txt firstHillSol=800_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.307000 secs
+Number of restarts: 156
+Number of steps: 378
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_6.txt firstHillSol=800_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.009000 secs
+Number of restarts: 5
+Number of steps: 12
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_7.txt firstHillSol=800_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.029000 secs
+Number of restarts: 14
+Number of steps: 35
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_8.txt firstHillSol=800_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.056000 secs
+Number of restarts: 26
+Number of steps: 70
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_9.txt firstHillSol=800_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.189000 secs
+Number of restarts: 88
+Number of steps: 231
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_10.txt firstHillSol=800_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 30873
+Number of steps: 73857
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_1.txt firstHillSol=850_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 27289
+Number of steps: 68984
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_2.txt firstHillSol=850_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 27617
+Number of steps: 69152
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_3.txt firstHillSol=850_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 0
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_4.txt firstHillSol=850_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_5.txt firstHillSol=850_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 27475
+Number of steps: 69045
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_6.txt firstHillSol=850_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.071000 secs
+Number of restarts: 32
+Number of steps: 84
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_7.txt firstHillSol=850_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.132000 secs
+Number of restarts: 55
+Number of steps: 149
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_8.txt firstHillSol=850_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.016000 secs
+Number of restarts: 8
+Number of steps: 18
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_9.txt firstHillSol=850_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_10.txt firstHillSol=850_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.196000 secs
+Number of restarts: 87
+Number of steps: 225
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_1.txt firstHillSol=900_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.104000 secs
+Number of restarts: 47
+Number of steps: 113
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_2.txt firstHillSol=900_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.008000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_3.txt firstHillSol=900_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.026000 secs
+Number of restarts: 10
+Number of steps: 28
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_4.txt firstHillSol=900_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 25572
+Number of steps: 64836
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_5.txt firstHillSol=900_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.269000 secs
+Number of restarts: 113
+Number of steps: 290
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_6.txt firstHillSol=900_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26187
+Number of steps: 65036
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_7.txt firstHillSol=900_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26378
+Number of steps: 64905
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_8.txt firstHillSol=900_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.014000 secs
+Number of restarts: 6
+Number of steps: 16
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_9.txt firstHillSol=900_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 25891
+Number of steps: 64846
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_10.txt firstHillSol=900_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.013000 secs
+Number of restarts: 4
+Number of steps: 14
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_1.txt firstHillSol=950_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.085000 secs
+Number of restarts: 37
+Number of steps: 86
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_2.txt firstHillSol=950_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.052000 secs
+Number of restarts: 18
+Number of steps: 53
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_3.txt firstHillSol=950_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24350
+Number of steps: 61708
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_4.txt firstHillSol=950_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.027000 secs
+Number of restarts: 11
+Number of steps: 29
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_5.txt firstHillSol=950_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.058000 secs
+Number of restarts: 20
+Number of steps: 60
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_6.txt firstHillSol=950_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.014000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_7.txt firstHillSol=950_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23695
+Number of steps: 61359
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_8.txt firstHillSol=950_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24802
+Number of steps: 61576
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_9.txt firstHillSol=950_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24230
+Number of steps: 61413
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_10.txt firstHillSol=950_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24702
+Number of steps: 61254
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_1.txt firstHillSol=1000_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21969
+Number of steps: 56609
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_2.txt firstHillSol=1000_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.010000 secs
+Number of restarts: 4
+Number of steps: 9
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_3.txt firstHillSol=1000_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.082000 secs
+Number of restarts: 27
+Number of steps: 79
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_4.txt firstHillSol=1000_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21390
+Number of steps: 57863
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_5.txt firstHillSol=1000_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22505
+Number of steps: 58181
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_6.txt firstHillSol=1000_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22356
+Number of steps: 58116
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_7.txt firstHillSol=1000_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22633
+Number of steps: 57981
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_8.txt firstHillSol=1000_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.205000 secs
+Number of restarts: 71
+Number of steps: 194
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_9.txt firstHillSol=1000_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23573
+Number of steps: 58366
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_10.txt firstHillSol=1000_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.011000 secs
+Number of restarts: 3
+Number of steps: 11
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_1.txt firstHillSol=1020_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21350
+Number of steps: 57250
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_2.txt firstHillSol=1020_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22325
+Number of steps: 56792
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_3.txt firstHillSol=1020_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23030
+Number of steps: 57268
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_4.txt firstHillSol=1020_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21899
+Number of steps: 57124
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_5.txt firstHillSol=1020_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20811
+Number of steps: 56907
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_6.txt firstHillSol=1020_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21977
+Number of steps: 56424
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_7.txt firstHillSol=1020_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 22689
+Number of steps: 57083
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_8.txt firstHillSol=1020_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20402
+Number of steps: 51859
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_9.txt firstHillSol=1020_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.011000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_10.txt firstHillSol=1020_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18585
+Number of steps: 48868
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_1.txt firstHillSol=1100_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17432
+Number of steps: 47765
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_2.txt firstHillSol=1100_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 18801
+Number of steps: 48579
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_3.txt firstHillSol=1100_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18488
+Number of steps: 48455
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_4.txt firstHillSol=1100_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18385
+Number of steps: 48711
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_5.txt firstHillSol=1100_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.194000 secs
+Number of restarts: 58
+Number of steps: 159
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_6.txt firstHillSol=1100_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 18444
+Number of steps: 47915
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_7.txt firstHillSol=1100_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 17935
+Number of steps: 45357
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_8.txt firstHillSol=1100_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18404
+Number of steps: 46732
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_9.txt firstHillSol=1100_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.020000 secs
+Number of restarts: 6
+Number of steps: 17
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_10.txt firstHillSol=1100_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19452
+Number of steps: 48613
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_1.txt secondHillSol=700_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.008000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_2.txt secondHillSol=700_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.060000 secs
+Number of restarts: 30
+Number of steps: 74
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_3.txt secondHillSol=700_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.016000 secs
+Number of restarts: 7
+Number of steps: 18
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_4.txt secondHillSol=700_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.040000 secs
+Number of restarts: 22
+Number of steps: 53
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_5.txt secondHillSol=700_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_6.txt secondHillSol=700_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_7.txt secondHillSol=700_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.008000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_8.txt secondHillSol=700_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_9.txt secondHillSol=700_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.011000 secs
+Number of restarts: 4
+Number of steps: 15
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_10.txt secondHillSol=700_10.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.015000 secs
+Number of restarts: 7
+Number of steps: 20
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_1.txt secondHillSol=800_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.020000 secs
+Number of restarts: 9
+Number of steps: 24
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_2.txt secondHillSol=800_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.026000 secs
+Number of restarts: 13
+Number of steps: 29
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_3.txt secondHillSol=800_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26433
+Number of steps: 66661
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_4.txt secondHillSol=800_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.025000 secs
+Number of restarts: 8
+Number of steps: 25
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_5.txt secondHillSol=800_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.038000 secs
+Number of restarts: 18
+Number of steps: 42
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_6.txt secondHillSol=800_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.398000 secs
+Number of restarts: 177
+Number of steps: 434
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_7.txt secondHillSol=800_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.068000 secs
+Number of restarts: 28
+Number of steps: 75
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_8.txt secondHillSol=800_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_9.txt secondHillSol=800_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.038000 secs
+Number of restarts: 12
+Number of steps: 40
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_10.txt secondHillSol=800_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 25644
+Number of steps: 61231
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_1.txt secondHillSol=850_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 22109
+Number of steps: 55912
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_2.txt secondHillSol=850_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 22533
+Number of steps: 56371
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_3.txt secondHillSol=850_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.020000 secs
+Number of restarts: 9
+Number of steps: 21
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_4.txt secondHillSol=850_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_5.txt secondHillSol=850_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22302
+Number of steps: 56120
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_6.txt secondHillSol=850_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.103000 secs
+Number of restarts: 42
+Number of steps: 102
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_7.txt secondHillSol=850_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.168000 secs
+Number of restarts: 64
+Number of steps: 162
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_8.txt secondHillSol=850_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.036000 secs
+Number of restarts: 14
+Number of steps: 35
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_9.txt secondHillSol=850_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_10.txt secondHillSol=850_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.220000 secs
+Number of restarts: 85
+Number of steps: 212
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_1.txt secondHillSol=900_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.148000 secs
+Number of restarts: 54
+Number of steps: 129
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_2.txt secondHillSol=900_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.017000 secs
+Number of restarts: 7
+Number of steps: 15
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_3.txt secondHillSol=900_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.063000 secs
+Number of restarts: 22
+Number of steps: 55
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_4.txt secondHillSol=900_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20787
+Number of steps: 52786
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_5.txt secondHillSol=900_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.083000 secs
+Number of restarts: 28
+Number of steps: 75
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_6.txt secondHillSol=900_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21320
+Number of steps: 52937
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_7.txt secondHillSol=900_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21615
+Number of steps: 53179
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_8.txt secondHillSol=900_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.066000 secs
+Number of restarts: 21
+Number of steps: 59
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_9.txt secondHillSol=900_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21503
+Number of steps: 54042
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_10.txt secondHillSol=900_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.031000 secs
+Number of restarts: 10
+Number of steps: 28
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_1.txt secondHillSol=950_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.038000 secs
+Number of restarts: 12
+Number of steps: 32
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_2.txt secondHillSol=950_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.020000 secs
+Number of restarts: 5
+Number of steps: 16
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_3.txt secondHillSol=950_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20033
+Number of steps: 50593
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_4.txt secondHillSol=950_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.005000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_5.txt secondHillSol=950_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.058000 secs
+Number of restarts: 21
+Number of steps: 52
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_6.txt secondHillSol=950_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.023000 secs
+Number of restarts: 6
+Number of steps: 22
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_7.txt secondHillSol=950_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 21467
+Number of steps: 55673
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_8.txt secondHillSol=950_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 20435
+Number of steps: 50788
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_9.txt secondHillSol=950_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17627
+Number of steps: 44497
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_10.txt secondHillSol=950_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17935
+Number of steps: 44437
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_1.txt secondHillSol=1000_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 16555
+Number of steps: 42726
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_2.txt secondHillSol=1000_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.030000 secs
+Number of restarts: 8
+Number of steps: 21
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_3.txt secondHillSol=1000_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.009000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_4.txt secondHillSol=1000_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15671
+Number of steps: 42523
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_5.txt secondHillSol=1000_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16269
+Number of steps: 42135
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_6.txt secondHillSol=1000_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 16267
+Number of steps: 42272
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_7.txt secondHillSol=1000_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16588
+Number of steps: 42393
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_8.txt secondHillSol=1000_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.304000 secs
+Number of restarts: 99
+Number of steps: 244
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_9.txt secondHillSol=1000_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17620
+Number of steps: 43636
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_10.txt secondHillSol=1000_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.076000 secs
+Number of restarts: 22
+Number of steps: 56
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_1.txt secondHillSol=1020_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16554
+Number of steps: 44280
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_2.txt secondHillSol=1020_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 18834
+Number of steps: 47921
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_3.txt secondHillSol=1020_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17369
+Number of steps: 43042
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_4.txt secondHillSol=1020_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15864
+Number of steps: 41451
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_5.txt secondHillSol=1020_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 15145
+Number of steps: 41407
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_6.txt secondHillSol=1020_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15990
+Number of steps: 41111
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_7.txt secondHillSol=1020_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16509
+Number of steps: 41643
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_8.txt secondHillSol=1020_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16029
+Number of steps: 40657
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_9.txt secondHillSol=1020_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.056000 secs
+Number of restarts: 13
+Number of steps: 37
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_10.txt secondHillSol=1020_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15363
+Number of steps: 40565
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_1.txt secondHillSol=1100_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15661
+Number of steps: 42946
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_2.txt secondHillSol=1100_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15630
+Number of steps: 40175
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_3.txt secondHillSol=1100_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 14289
+Number of steps: 37620
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_4.txt secondHillSol=1100_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 14679
+Number of steps: 38596
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_5.txt secondHillSol=1100_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.131000 secs
+Number of restarts: 30
+Number of steps: 85
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_6.txt secondHillSol=1100_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 14807
+Number of steps: 38459
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_7.txt secondHillSol=1100_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15048
+Number of steps: 38121
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_8.txt secondHillSol=1100_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 16386
+Number of steps: 41459
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_9.txt secondHillSol=1100_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.012000 secs
+Number of restarts: 2
+Number of steps: 9
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_10.txt secondHillSol=1100_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 17793
+Number of steps: 44373
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_1.txt thirdHillSol=700_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 4
+Number of steps: 11
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_2.txt thirdHillSol=700_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_3.txt thirdHillSol=700_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_4.txt thirdHillSol=700_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.014000 secs
+Number of restarts: 6
+Number of steps: 17
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_5.txt thirdHillSol=700_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.018000 secs
+Number of restarts: 8
+Number of steps: 23
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_6.txt thirdHillSol=700_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.030000 secs
+Number of restarts: 12
+Number of steps: 35
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_7.txt thirdHillSol=700_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.022000 secs
+Number of restarts: 11
+Number of steps: 26
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_8.txt thirdHillSol=700_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_9.txt thirdHillSol=700_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_10.txt thirdHillSol=700_10.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_1.txt thirdHillSol=800_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_2.txt thirdHillSol=800_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.168000 secs
+Number of restarts: 69
+Number of steps: 179
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_3.txt thirdHillSol=800_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22962
+Number of steps: 57740
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_4.txt thirdHillSol=800_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.010000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_5.txt thirdHillSol=800_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.101000 secs
+Number of restarts: 40
+Number of steps: 104
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_6.txt thirdHillSol=800_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.120000 secs
+Number of restarts: 45
+Number of steps: 119
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_7.txt thirdHillSol=800_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.168000 secs
+Number of restarts: 71
+Number of steps: 166
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_8.txt thirdHillSol=800_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.017000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_9.txt thirdHillSol=800_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_10.txt thirdHillSol=800_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24246
+Number of steps: 58029
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_1.txt thirdHillSol=850_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19665
+Number of steps: 49732
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_2.txt thirdHillSol=850_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19748
+Number of steps: 49404
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_3.txt thirdHillSol=850_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.048000 secs
+Number of restarts: 12
+Number of steps: 38
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_4.txt thirdHillSol=850_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_5.txt thirdHillSol=850_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19806
+Number of steps: 49801
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_6.txt thirdHillSol=850_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.101000 secs
+Number of restarts: 33
+Number of steps: 81
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_7.txt thirdHillSol=850_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_8.txt thirdHillSol=850_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.101000 secs
+Number of restarts: 34
+Number of steps: 83
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_9.txt thirdHillSol=850_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.015000 secs
+Number of restarts: 5
+Number of steps: 13
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_10.txt thirdHillSol=850_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.115000 secs
+Number of restarts: 39
+Number of steps: 97
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_1.txt thirdHillSol=900_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.030000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_2.txt thirdHillSol=900_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.019000 secs
+Number of restarts: 5
+Number of steps: 15
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_3.txt thirdHillSol=900_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.272000 secs
+Number of restarts: 93
+Number of steps: 225
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_4.txt thirdHillSol=900_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18202
+Number of steps: 46323
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_5.txt thirdHillSol=900_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_6.txt thirdHillSol=900_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.002998 secs
+Number of restarts: 18543
+Number of steps: 46130
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_7.txt thirdHillSol=900_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18815
+Number of steps: 46330
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_8.txt thirdHillSol=900_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.011000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_9.txt thirdHillSol=900_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19612
+Number of steps: 49019
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_10.txt thirdHillSol=900_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.016000 secs
+Number of restarts: 4
+Number of steps: 14
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_1.txt thirdHillSol=950_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.029000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_2.txt thirdHillSol=950_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.024000 secs
+Number of restarts: 9
+Number of steps: 21
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_3.txt thirdHillSol=950_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19045
+Number of steps: 48221
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_4.txt thirdHillSol=950_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.063000 secs
+Number of restarts: 20
+Number of steps: 51
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_5.txt thirdHillSol=950_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_6.txt thirdHillSol=950_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_7.txt thirdHillSol=950_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16828
+Number of steps: 43713
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_8.txt thirdHillSol=950_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18582
+Number of steps: 46190
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_9.txt thirdHillSol=950_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 17535
+Number of steps: 44154
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_10.txt thirdHillSol=950_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 17991
+Number of steps: 44460
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_1.txt thirdHillSol=1000_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16133
+Number of steps: 41533
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_2.txt thirdHillSol=1000_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.270000 secs
+Number of restarts: 80
+Number of steps: 208
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_3.txt thirdHillSol=1000_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.107000 secs
+Number of restarts: 29
+Number of steps: 72
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_4.txt thirdHillSol=1000_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 15561
+Number of steps: 42000
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_5.txt thirdHillSol=1000_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16278
+Number of steps: 42115
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_6.txt thirdHillSol=1000_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 18448
+Number of steps: 47854
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_7.txt thirdHillSol=1000_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18523
+Number of steps: 47568
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_8.txt thirdHillSol=1000_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.065000 secs
+Number of restarts: 16
+Number of steps: 47
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_9.txt thirdHillSol=1000_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17512
+Number of steps: 43435
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_10.txt thirdHillSol=1000_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_1.txt thirdHillSol=1020_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 15975
+Number of steps: 42689
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_2.txt thirdHillSol=1020_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16380
+Number of steps: 41547
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_3.txt thirdHillSol=1020_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16447
+Number of steps: 40890
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_4.txt thirdHillSol=1020_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 16086
+Number of steps: 41714
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_5.txt thirdHillSol=1020_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 15157
+Number of steps: 41448
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_6.txt thirdHillSol=1020_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 16126
+Number of steps: 41521
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_7.txt thirdHillSol=1020_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17094
+Number of steps: 43238
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_8.txt thirdHillSol=1020_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 18221
+Number of steps: 46219
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_9.txt thirdHillSol=1020_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_10.txt thirdHillSol=1020_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 18671
+Number of steps: 49343
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_1.txt thirdHillSol=1100_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 18052
+Number of steps: 49620
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_2.txt thirdHillSol=1100_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20510
+Number of steps: 52527
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_3.txt thirdHillSol=1100_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20262
+Number of steps: 52889
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_4.txt thirdHillSol=1100_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20122
+Number of steps: 53080
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_5.txt thirdHillSol=1100_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.137000 secs
+Number of restarts: 40
+Number of steps: 115
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_6.txt thirdHillSol=1100_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20490
+Number of steps: 53248
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_7.txt thirdHillSol=1100_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20838
+Number of steps: 53012
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_8.txt thirdHillSol=1100_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21115
+Number of steps: 53436
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_9.txt thirdHillSol=1100_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.024000 secs
+Number of restarts: 7
+Number of steps: 21
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_10.txt thirdHillSol=1100_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 21188
+Number of steps: 52890
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_1.txt fourthHillSol=700_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_2.txt fourthHillSol=700_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.006000 secs
+Number of restarts: 3
+Number of steps: 9
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_3.txt fourthHillSol=700_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.027000 secs
+Number of restarts: 16
+Number of steps: 41
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_4.txt fourthHillSol=700_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.022000 secs
+Number of restarts: 10
+Number of steps: 25
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_5.txt fourthHillSol=700_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_6.txt fourthHillSol=700_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_7.txt fourthHillSol=700_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 1
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_8.txt fourthHillSol=700_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 2
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_9.txt fourthHillSol=700_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.025000 secs
+Number of restarts: 15
+Number of steps: 34
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_10.txt fourthHillSol=700_10.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.005000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_1.txt fourthHillSol=800_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.014000 secs
+Number of restarts: 6
+Number of steps: 17
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_2.txt fourthHillSol=800_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.029000 secs
+Number of restarts: 14
+Number of steps: 36
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_3.txt fourthHillSol=800_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 29327
+Number of steps: 73917
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_4.txt fourthHillSol=800_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.007000 secs
+Number of restarts: 2
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_5.txt fourthHillSol=800_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.102000 secs
+Number of restarts: 50
+Number of steps: 127
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_6.txt fourthHillSol=800_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.065000 secs
+Number of restarts: 34
+Number of steps: 82
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_7.txt fourthHillSol=800_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_8.txt fourthHillSol=800_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.013000 secs
+Number of restarts: 8
+Number of steps: 17
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_9.txt fourthHillSol=800_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_10.txt fourthHillSol=800_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 31025
+Number of steps: 74295
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_1.txt fourthHillSol=850_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 27491
+Number of steps: 69634
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_2.txt fourthHillSol=850_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 28231
+Number of steps: 70621
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_3.txt fourthHillSol=850_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 2
+Number of steps: 7
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_4.txt fourthHillSol=850_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.004000 secs
+Number of restarts: 1
+Number of steps: 4
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_5.txt fourthHillSol=850_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 28016
+Number of steps: 70630
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_6.txt fourthHillSol=850_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.008000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_7.txt fourthHillSol=850_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.137000 secs
+Number of restarts: 67
+Number of steps: 161
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_8.txt fourthHillSol=850_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.165000 secs
+Number of restarts: 76
+Number of steps: 195
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_9.txt fourthHillSol=850_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.013000 secs
+Number of restarts: 5
+Number of steps: 16
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_10.txt fourthHillSol=850_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_1.txt fourthHillSol=900_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.016000 secs
+Number of restarts: 5
+Number of steps: 12
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_2.txt fourthHillSol=900_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.012000 secs
+Number of restarts: 4
+Number of steps: 13
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_3.txt fourthHillSol=900_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.037000 secs
+Number of restarts: 15
+Number of steps: 41
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_4.txt fourthHillSol=900_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26151
+Number of steps: 66330
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_5.txt fourthHillSol=900_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.021000 secs
+Number of restarts: 9
+Number of steps: 23
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_6.txt fourthHillSol=900_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26767
+Number of steps: 66574
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_7.txt fourthHillSol=900_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 27019
+Number of steps: 66656
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_8.txt fourthHillSol=900_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.022000 secs
+Number of restarts: 8
+Number of steps: 22
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_9.txt fourthHillSol=900_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26459
+Number of steps: 66511
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_10.txt fourthHillSol=900_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.049000 secs
+Number of restarts: 20
+Number of steps: 50
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_1.txt fourthHillSol=950_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.069000 secs
+Number of restarts: 29
+Number of steps: 74
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_2.txt fourthHillSol=950_2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.074000 secs
+Number of restarts: 26
+Number of steps: 76
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_3.txt fourthHillSol=950_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24953
+Number of steps: 63095
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_4.txt fourthHillSol=950_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.007000 secs
+Number of restarts: 1
+Number of steps: 6
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_5.txt fourthHillSol=950_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.158000 secs
+Number of restarts: 66
+Number of steps: 168
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_6.txt fourthHillSol=950_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_7.txt fourthHillSol=950_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24238
+Number of steps: 63067
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_8.txt fourthHillSol=950_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 25430
+Number of steps: 63246
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_9.txt fourthHillSol=950_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24860
+Number of steps: 62742
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_10.txt fourthHillSol=950_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 25350
+Number of steps: 62929
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_1.txt fourthHillSol=1000_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23257
+Number of steps: 59897
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_2.txt fourthHillSol=1000_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_3.txt fourthHillSol=1000_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.008000 secs
+Number of restarts: 2
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_4.txt fourthHillSol=1000_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21960
+Number of steps: 59487
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_5.txt fourthHillSol=1000_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23164
+Number of steps: 59690
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_6.txt fourthHillSol=1000_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23003
+Number of steps: 59934
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_7.txt fourthHillSol=1000_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23283
+Number of steps: 59747
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_8.txt fourthHillSol=1000_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.135000 secs
+Number of restarts: 47
+Number of steps: 134
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_9.txt fourthHillSol=1000_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24145
+Number of steps: 59759
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_10.txt fourthHillSol=1000_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.009000 secs
+Number of restarts: 2
+Number of steps: 9
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_1.txt fourthHillSol=1020_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 21841
+Number of steps: 58658
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_2.txt fourthHillSol=1020_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23022
+Number of steps: 58360
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_3.txt fourthHillSol=1020_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23798
+Number of steps: 58897
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_4.txt fourthHillSol=1020_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22628
+Number of steps: 58823
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_5.txt fourthHillSol=1020_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21512
+Number of steps: 58647
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_6.txt fourthHillSol=1020_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22781
+Number of steps: 58418
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_7.txt fourthHillSol=1020_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23081
+Number of steps: 58303
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_8.txt fourthHillSol=1020_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23079
+Number of steps: 58649
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_9.txt fourthHillSol=1020_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.078000 secs
+Number of restarts: 30
+Number of steps: 77
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_10.txt fourthHillSol=1020_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22329
+Number of steps: 58586
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_1.txt fourthHillSol=1100_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19848
+Number of steps: 54536
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_2.txt fourthHillSol=1100_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21114
+Number of steps: 54253
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_3.txt fourthHillSol=1100_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20667
+Number of steps: 54212
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_4.txt fourthHillSol=1100_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20640
+Number of steps: 54387
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_5.txt fourthHillSol=1100_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.028000 secs
+Number of restarts: 9
+Number of steps: 24
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_6.txt fourthHillSol=1100_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21017
+Number of steps: 54501
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_7.txt fourthHillSol=1100_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21379
+Number of steps: 54451
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_8.txt fourthHillSol=1100_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21576
+Number of steps: 54702
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_9.txt fourthHillSol=1100_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.156000 secs
+Number of restarts: 54
+Number of steps: 138
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_10.txt fourthHillSol=1100_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21663
+Number of steps: 54003
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_1.txt fifthHillSol=700_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 2
+Number of steps: 6
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_2.txt fifthHillSol=700_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_3.txt fifthHillSol=700_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.007000 secs
+Number of restarts: 4
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_4.txt fifthHillSol=700_4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.034000 secs
+Number of restarts: 18
+Number of steps: 48
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_5.txt fifthHillSol=700_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_6.txt fifthHillSol=700_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.009000 secs
+Number of restarts: 5
+Number of steps: 13
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_7.txt fifthHillSol=700_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_8.txt fifthHillSol=700_8.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.017000 secs
+Number of restarts: 11
+Number of steps: 25
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_9.txt fifthHillSol=700_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.015000 secs
+Number of restarts: 8
+Number of steps: 19
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=700_10.txt fifthHillSol=700_10.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.024000 secs
+Number of restarts: 13
+Number of steps: 35
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_1.txt fifthHillSol=800_1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.038000 secs
+Number of restarts: 17
+Number of steps: 48
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_2.txt fifthHillSol=800_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.018000 secs
+Number of restarts: 8
+Number of steps: 22
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_3.txt fifthHillSol=800_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 30017
+Number of steps: 75722
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_4.txt fifthHillSol=800_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.011000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_5.txt fifthHillSol=800_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.112000 secs
+Number of restarts: 59
+Number of steps: 139
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_6.txt fifthHillSol=800_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.049000 secs
+Number of restarts: 23
+Number of steps: 61
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_7.txt fifthHillSol=800_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_8.txt fifthHillSol=800_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.049000 secs
+Number of restarts: 23
+Number of steps: 57
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_9.txt fifthHillSol=800_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.009000 secs
+Number of restarts: 5
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=800_10.txt fifthHillSol=800_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 31825
+Number of steps: 75852
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_1.txt fifthHillSol=850_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 28007
+Number of steps: 70834
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_2.txt fifthHillSol=850_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 28325
+Number of steps: 70759
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_3.txt fifthHillSol=850_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.038000 secs
+Number of restarts: 16
+Number of steps: 42
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_4.txt fifthHillSol=850_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.033000 secs
+Number of restarts: 13
+Number of steps: 38
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_5.txt fifthHillSol=850_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 28088
+Number of steps: 70636
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_6.txt fifthHillSol=850_6.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.034000 secs
+Number of restarts: 14
+Number of steps: 40
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_7.txt fifthHillSol=850_7.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.007000 secs
+Number of restarts: 3
+Number of steps: 8
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_8.txt fifthHillSol=850_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.021000 secs
+Number of restarts: 10
+Number of steps: 25
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_9.txt fifthHillSol=850_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.010000 secs
+Number of restarts: 5
+Number of steps: 12
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=850_10.txt fifthHillSol=850_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.301000 secs
+Number of restarts: 138
+Number of steps: 353
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_1.txt fifthHillSol=900_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.253000 secs
+Number of restarts: 112
+Number of steps: 280
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_2.txt fifthHillSol=900_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.011000 secs
+Number of restarts: 3
+Number of steps: 10
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_3.txt fifthHillSol=900_3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.053000 secs
+Number of restarts: 25
+Number of steps: 61
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_4.txt fifthHillSol=900_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26175
+Number of steps: 66305
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_5.txt fifthHillSol=900_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.178000 secs
+Number of restarts: 76
+Number of steps: 196
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_6.txt fifthHillSol=900_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26640
+Number of steps: 66519
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_7.txt fifthHillSol=900_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 27033
+Number of steps: 66610
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_8.txt fifthHillSol=900_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.028000 secs
+Number of restarts: 11
+Number of steps: 31
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_9.txt fifthHillSol=900_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 26733
+Number of steps: 66916
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=900_10.txt fifthHillSol=900_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.110000 secs
+Number of restarts: 46
+Number of steps: 117
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_1.txt fifthHillSol=950_1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.029000 secs
+Number of restarts: 11
+Number of steps: 30
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_2.txt fifthHillSol=950_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.029000 secs
+Number of restarts: 11
+Number of steps: 30
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_3.txt fifthHillSol=950_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 25112
+Number of steps: 63566
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_4.txt fifthHillSol=950_4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.056000 secs
+Number of restarts: 21
+Number of steps: 54
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_5.txt fifthHillSol=950_5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.072000 secs
+Number of restarts: 28
+Number of steps: 74
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_6.txt fifthHillSol=950_6.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_7.txt fifthHillSol=950_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24288
+Number of steps: 63020
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_8.txt fifthHillSol=950_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 25328
+Number of steps: 63337
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_9.txt fifthHillSol=950_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 25026
+Number of steps: 63183
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=950_10.txt fifthHillSol=950_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 25457
+Number of steps: 63204
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_1.txt fifthHillSol=1000_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23266
+Number of steps: 60074
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_2.txt fifthHillSol=1000_2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.014000 secs
+Number of restarts: 4
+Number of steps: 14
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_3.txt fifthHillSol=1000_3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.018000 secs
+Number of restarts: 4
+Number of steps: 18
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_4.txt fifthHillSol=1000_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21976
+Number of steps: 59596
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_5.txt fifthHillSol=1000_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23177
+Number of steps: 59764
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_6.txt fifthHillSol=1000_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23153
+Number of steps: 60021
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_7.txt fifthHillSol=1000_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 23317
+Number of steps: 59887
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_8.txt fifthHillSol=1000_8.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.380000 secs
+Number of restarts: 153
+Number of steps: 382
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_9.txt fifthHillSol=1000_9.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 24034
+Number of steps: 59586
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1000_10.txt fifthHillSol=1000_10.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.007000 secs
+Number of restarts: 1
+Number of steps: 5
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_1.txt fifthHillSol=1020_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21820
+Number of steps: 58904
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_2.txt fifthHillSol=1020_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23079
+Number of steps: 58481
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_3.txt fifthHillSol=1020_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23784
+Number of steps: 58951
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_4.txt fifthHillSol=1020_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 22460
+Number of steps: 58783
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_5.txt fifthHillSol=1020_5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21561
+Number of steps: 58818
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_6.txt fifthHillSol=1020_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22627
+Number of steps: 58206
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_7.txt fifthHillSol=1020_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 23024
+Number of steps: 58412
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_8.txt fifthHillSol=1020_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22977
+Number of steps: 58439
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_9.txt fifthHillSol=1020_9.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 1
+Number of steps: 3
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1020_10.txt fifthHillSol=1020_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 22223
+Number of steps: 58679
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_1.txt fifthHillSol=1100_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 19927
+Number of steps: 54413
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_2.txt fifthHillSol=1100_2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.001999 secs
+Number of restarts: 20937
+Number of steps: 53940
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_3.txt fifthHillSol=1100_3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20665
+Number of steps: 54447
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_4.txt fifthHillSol=1100_4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20610
+Number of steps: 54373
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_5.txt fifthHillSol=1100_5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.116000 secs
+Number of restarts: 41
+Number of steps: 105
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_6.txt fifthHillSol=1100_6.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 20982
+Number of steps: 54509
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_7.txt fifthHillSol=1100_7.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21218
+Number of steps: 54104
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_8.txt fifthHillSol=1100_8.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21464
+Number of steps: 54475
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_9.txt fifthHillSol=1100_9.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.150000 secs
+Number of restarts: 50
+Number of steps: 131
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1100_10.txt fifthHillSol=1100_10.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 21771
+Number of steps: 54101
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1300_1.txt fifthHillSol=1300_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 17335
+Number of steps: 45492
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe hill m=1400_1.txt fifthHillSol=1400_1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 15923
+Number of steps: 42284

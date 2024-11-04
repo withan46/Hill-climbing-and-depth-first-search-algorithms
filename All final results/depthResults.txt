@@ -1,0 +1,822 @@
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_1.txt depthSol=600_1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 18
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_2.txt depthSol=600_2.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.013000 secs
+Number of steps: 192
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_3.txt depthSol=600_3.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of steps: 17
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_4.txt depthSol=600_4.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.006000 secs
+Number of steps: 96
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_5.txt depthSol=600_5.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.009000 secs
+Number of steps: 133
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_6.txt depthSol=600_6.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.015000 secs
+Number of steps: 226
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_7.txt depthSol=600_7.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.002000 secs
+Number of steps: 34
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_8.txt depthSol=600_8.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.003000 secs
+Number of steps: 64
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_9.txt depthSol=600_9.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.002000 secs
+Number of steps: 23
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=600_10.txt depthSol=600_10.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 24
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_1.txt depthSol=700_1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.005000 secs
+Number of steps: 57
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_2.txt depthSol=700_2.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.002000 secs
+Number of steps: 20
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_3.txt depthSol=700_3.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.004000 secs
+Number of steps: 56
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_4.txt depthSol=700_4.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.024000 secs
+Number of steps: 313
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_5.txt depthSol=700_5.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.009000 secs
+Number of steps: 119
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_6.txt depthSol=700_6.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=true  P8=false  P9=true  P10=true  
+Time spent: 0.008000 secs
+Number of steps: 99
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_7.txt depthSol=700_7.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.026000 secs
+Number of steps: 319
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_8.txt depthSol=700_8.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.011000 secs
+Number of steps: 135
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_9.txt depthSol=700_9.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=false  
+Time spent: 0.020000 secs
+Number of steps: 244
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=700_10.txt depthSol=700_10.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.004000 secs
+Number of steps: 53
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_1.txt depthSol=800_1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=true  P10=true  
+Time spent: 0.019000 secs
+Number of steps: 214
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_2.txt depthSol=800_2.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.016000 secs
+Number of steps: 183
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_3.txt depthSol=800_3.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.041000 secs
+Number of steps: 467
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_4.txt depthSol=800_4.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.003000 secs
+Number of steps: 33
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_5.txt depthSol=800_5.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.005000 secs
+Number of steps: 55
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_6.txt depthSol=800_6.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=false  P7=false  P8=true  P9=false  P10=true  
+Time spent: 0.019000 secs
+Number of steps: 208
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_7.txt depthSol=800_7.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.028000 secs
+Number of steps: 320
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_8.txt depthSol=800_8.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=false  P6=false  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.013000 secs
+Number of steps: 137
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_9.txt depthSol=800_9.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.022000 secs
+Number of steps: 262
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=800_10.txt depthSol=800_10.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.045000 secs
+Number of steps: 496
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_1.txt depthSol=850_1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.049000 secs
+Number of steps: 508
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_2.txt depthSol=850_2.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.044000 secs
+Number of steps: 456
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_3.txt depthSol=850_3.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.008000 secs
+Number of steps: 84
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_4.txt depthSol=850_4.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.009000 secs
+Number of steps: 99
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_5.txt depthSol=850_5.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.044000 secs
+Number of steps: 464
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_6.txt depthSol=850_6.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.041000 secs
+Number of steps: 419
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_7.txt depthSol=850_7.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.046000 secs
+Number of steps: 478
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_8.txt depthSol=850_8.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.008000 secs
+Number of steps: 82
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_9.txt depthSol=850_9.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.021000 secs
+Number of steps: 215
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=850_10.txt depthSol=850_10.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=false  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.027000 secs
+Number of steps: 281
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_1.txt depthSol=900_1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.015000 secs
+Number of steps: 140
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_2.txt depthSol=900_2.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.019000 secs
+Number of steps: 206
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_3.txt depthSol=900_3.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  
+Time spent: 0.007000 secs
+Number of steps: 70
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_4.txt depthSol=900_4.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.049000 secs
+Number of steps: 482
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_5.txt depthSol=900_5.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.032000 secs
+Number of steps: 302
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_6.txt depthSol=900_6.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.047000 secs
+Number of steps: 474
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_7.txt depthSol=900_7.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.052000 secs
+Number of steps: 480
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_8.txt depthSol=900_8.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=true  P10=false  
+Time spent: 0.008000 secs
+Number of steps: 83
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_9.txt depthSol=900_9.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.049000 secs
+Number of steps: 481
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=900_10.txt depthSol=900_10.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.031000 secs
+Number of steps: 314
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_1.txt depthSol=950_1.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.016000 secs
+Number of steps: 144
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_2.txt depthSol=950_2.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=false  P6=false  P7=true  P8=true  P9=false  P10=true  
+Time spent: 0.007000 secs
+Number of steps: 63
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_3.txt depthSol=950_3.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.051000 secs
+Number of steps: 466
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_4.txt depthSol=950_4.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of steps: 50
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_5.txt depthSol=950_5.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.016000 secs
+Number of steps: 145
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_6.txt depthSol=950_6.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.006000 secs
+Number of steps: 33
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_7.txt depthSol=950_7.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.045000 secs
+Number of steps: 438
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_8.txt depthSol=950_8.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.049000 secs
+Number of steps: 471
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_9.txt depthSol=950_9.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.049000 secs
+Number of steps: 440
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=950_10.txt depthSol=950_10.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.047000 secs
+Number of steps: 434
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_1.txt depthSol=1000_1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.053000 secs
+Number of steps: 478
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_2.txt depthSol=1000_2.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.015000 secs
+Number of steps: 135
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_3.txt depthSol=1000_3.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=false  P4=false  P5=true  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.051000 secs
+Number of steps: 427
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_4.txt depthSol=1000_4.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.057000 secs
+Number of steps: 468
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_5.txt depthSol=1000_5.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.047000 secs
+Number of steps: 430
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_6.txt depthSol=1000_6.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.052000 secs
+Number of steps: 442
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_7.txt depthSol=1000_7.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.061000 secs
+Number of steps: 440
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_8.txt depthSol=1000_8.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.020000 secs
+Number of steps: 160
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_9.txt depthSol=1000_9.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.050000 secs
+Number of steps: 451
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1000_10.txt depthSol=1000_10.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  
+Time spent: 0.017000 secs
+Number of steps: 146
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_1.txt depthSol=1020_1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.050000 secs
+Number of steps: 442
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_2.txt depthSol=1020_2.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.048000 secs
+Number of steps: 426
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_3.txt depthSol=1020_3.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.051000 secs
+Number of steps: 458
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_4.txt depthSol=1020_4.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.052000 secs
+Number of steps: 450
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_5.txt depthSol=1020_5.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.052000 secs
+Number of steps: 439
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_6.txt depthSol=1020_6.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.051000 secs
+Number of steps: 425
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_7.txt depthSol=1020_7.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.054000 secs
+Number of steps: 442
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_8.txt depthSol=1020_8.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.056000 secs
+Number of steps: 461
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_9.txt depthSol=1020_9.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.007000 secs
+Number of steps: 44
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1020_10.txt depthSol=1020_10.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.049000 secs
+Number of steps: 422
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_1.txt depthSol=1100_1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.053000 secs
+Number of steps: 424
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_2.txt depthSol=1100_2.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.062000 secs
+Number of steps: 417
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_3.txt depthSol=1100_3.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.051000 secs
+Number of steps: 403
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_4.txt depthSol=1100_4.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.054000 secs
+Number of steps: 423
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_5.txt depthSol=1100_5.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=true  P10=false  
+Time spent: 0.031000 secs
+Number of steps: 250
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_6.txt depthSol=1100_6.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.055000 secs
+Number of steps: 433
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_7.txt depthSol=1100_7.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.051000 secs
+Number of steps: 419
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_8.txt depthSol=1100_8.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.060000 secs
+Number of steps: 433
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_9.txt depthSol=1100_9.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.043000 secs
+Number of steps: 350
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1100_10.txt depthSol=1100_10.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.054000 secs
+Number of steps: 423
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_1.txt depthSol=1300_1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.058000 secs
+Number of steps: 391
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_2.txt depthSol=1300_2.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.061000 secs
+Number of steps: 406
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_3.txt depthSol=1300_3.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.056000 secs
+Number of steps: 402
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_4.txt depthSol=1300_4.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.061000 secs
+Number of steps: 379
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_5.txt depthSol=1300_5.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.059000 secs
+Number of steps: 398
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_6.txt depthSol=1300_6.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.058000 secs
+Number of steps: 372
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_7.txt depthSol=1300_7.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.060000 secs
+Number of steps: 407
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_8.txt depthSol=1300_8.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.054000 secs
+Number of steps: 384
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_9.txt depthSol=1300_9.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.059000 secs
+Number of steps: 390
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1300_10.txt depthSol=1300_10.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.064000 secs
+Number of steps: 414
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_1.txt depthSol=1400_1.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.062000 secs
+Number of steps: 390
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_2.txt depthSol=1400_2.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.062000 secs
+Number of steps: 376
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_3.txt depthSol=1400_3.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.064000 secs
+Number of steps: 387
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_4.txt depthSol=1400_4.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.069000 secs
+Number of steps: 420
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_5.txt depthSol=1400_5.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.060000 secs
+Number of steps: 383
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_6.txt depthSol=1400_6.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.066000 secs
+Number of steps: 380
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_7.txt depthSol=1400_7.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.065000 secs
+Number of steps: 390
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_8.txt depthSol=1400_8.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.066000 secs
+Number of steps: 399
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_9.txt depthSol=1400_9.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.058000 secs
+Number of steps: 380
+
+C:\Users\Windows 10\Desktop\SourceCode>bcsp.exe depth m=1400_10.txt depthSol=1400_10.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.065000 secs
+Number of steps: 413
